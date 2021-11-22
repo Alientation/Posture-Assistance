@@ -10,3 +10,8 @@ filter to prevent little fluxtuations of color from affecting the result; and it
 algorithm that attempts to map out the user's body, however this is still buggy.
 
 There maybe a few libraries needed to run this, namely, opencv. Not entirely sure though.
+
+
+# Usage
+The user will see on screen 2 images, one is the unfiltered image from their webcam, the other is the filtered image that will be used for scoring
+In order for the program to score accurately, the user must press the button to take a screenshot of the filtered edges image. It will be named 'baseEdgeImage'. Keep it like that and in the same location. Copy and paste it but rename it to 'baseFloodFillImage'. Then open up paint or some image editing software and color in yourself with pure red (rgb value : (255,0,0))
