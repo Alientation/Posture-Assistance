@@ -12,7 +12,8 @@ The program attempts to performs an algorithm that attempts to map out the user'
 
 
 # Dependencies
-## OpenCV (webcam image extraction)
+### OpenCV 
+  Webcam image extraction
 
 
 # Usage
