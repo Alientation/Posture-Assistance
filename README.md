@@ -1,5 +1,5 @@
 # Posture-Assistance
-Noninvasive Posture Assistance Application for Computers (project submission for Metrohacks 2021)
+Noninvasive Posture Assistance (3rd place Metrohacks Hackathon 2021)
 
 This program utilizes the user's webcam to score the user's posture by comparing the current image to a base 'correct' posture that the user chooses.
 
